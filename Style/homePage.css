@@ -1,0 +1,9 @@
+
+#map {
+  height: 100px;
+  width: 100%;
+}
+#controls {
+  background-color: rgb(255, 30, 0);
+  margin: 10px;
+}
